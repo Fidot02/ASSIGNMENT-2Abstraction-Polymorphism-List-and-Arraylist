@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASSIGNMENT 2Abstraction,Polymorphism,List-and-Arraylist", "ASSIGNMENT 2Abstraction,Polymorphism,List-and-Arraylist.csproj", "{A2F341D6-2CDE-4CF2-BF61-1615D87AAB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List", "..\List\List.csproj", "{0088E897-C4F3-4CF0-8104-5FCD17457F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F341D6-2CDE-4CF2-BF61-1615D87AAB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F341D6-2CDE-4CF2-BF61-1615D87AAB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F341D6-2CDE-4CF2-BF61-1615D87AAB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F341D6-2CDE-4CF2-BF61-1615D87AAB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0088E897-C4F3-4CF0-8104-5FCD17457F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0088E897-C4F3-4CF0-8104-5FCD17457F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0088E897-C4F3-4CF0-8104-5FCD17457F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0088E897-C4F3-4CF0-8104-5FCD17457F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBA90BFB-CF22-4C0D-BBC2-37ED1FB0DB90}
+	EndGlobalSection
+EndGlobal
